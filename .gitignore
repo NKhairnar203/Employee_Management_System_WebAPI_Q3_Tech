@@ -1,0 +1,20 @@
+﻿# Ignore build outputs and compiled binaries
+bin/
+obj/
+.vscode/
+.idea/
+*.user
+*.suo
+*.log
+*.db
+
+# Ignore sensitive config files
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Ignore EF Core migrations history
+__EFMigrationsHistory/
+
+# Ignore personal environment settings
+*.vs/

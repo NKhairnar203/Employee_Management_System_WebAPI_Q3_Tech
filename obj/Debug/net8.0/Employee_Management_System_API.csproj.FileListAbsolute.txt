@@ -177,3 +177,4 @@ E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\ref\Employee_Management_System_API.dll
 E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\BCrypt.Net-Next.dll
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\Employee_Management_System_API.sourcelink.json
