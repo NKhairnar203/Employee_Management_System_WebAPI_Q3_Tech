@@ -1,20 +1,28 @@
-﻿# Ignore build outputs and compiled binaries
-bin/
-obj/
-.vscode/
-.idea/
-*.user
-*.suo
-*.log
-*.db
-
-# Ignore sensitive config files
+# Ignore sensitive files
+appsettings.json
 appsettings.Development.json
-appsettings.Local.json
 secrets.json
 
-# Ignore EF Core migrations history
-__EFMigrationsHistory/
+# Ignore build and compiled files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
 
-# Ignore personal environment settings
-*.vs/
+# Ignore user-specific files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Ignore dependency files
+node_modules/
+packages/
+
+# Ignore logs and temp files
+logs/
+*.log
+*.tmp
+*.cache
+*.lock
