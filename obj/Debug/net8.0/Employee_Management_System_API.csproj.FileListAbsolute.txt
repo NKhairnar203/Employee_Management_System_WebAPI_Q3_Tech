@@ -9,6 +9,7 @@ E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.
 E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\AutoMapper.dll
 E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\Azure.Core.dll
 E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\Azure.Identity.dll
+E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\BCrypt.Net-Next.dll
 E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\FluentValidation.dll
 E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
@@ -159,6 +160,7 @@ E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\Employee_Management_System_API.csproj.CoreCompileInputs.cache
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\Employee_Management_System_API.MvcApplicationPartsAssemblyInfo.cs
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\Employee_Management_System_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\Employee_Management_System_API.sourcelink.json
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\scopedcss\bundle\Employee_Management_System_API.styles.css
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\staticwebassets.build.json
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\staticwebassets.development.json
@@ -175,6 +177,4 @@ E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\Employee_Management_System_API.pdb
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\Employee_Management_System_API.genruntimeconfig.cache
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\ref\Employee_Management_System_API.dll
-E:\Employee_Management_System_API\Employee_Management_System_API\bin\Debug\net8.0\BCrypt.Net-Next.dll
 E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-E:\Employee_Management_System_API\Employee_Management_System_API\obj\Debug\net8.0\Employee_Management_System_API.sourcelink.json
