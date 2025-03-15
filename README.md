@@ -39,13 +39,13 @@ Employee_Management_System_API/
 
 ## 🚀 Features
 
-✅ User Authentication (JWT-based)
-✅ Role-based Authorization
-✅ Employee CRUD Operations (Create, Read, Update, Delete)
-✅ User Management
-✅ Secure Password Hashing
-✅ Entity Framework Core Integration
-✅ Exception Handling & Validation
+- ✅ User Authentication (JWT-based)
+- ✅ Role-based Authorization
+- ✅ Employee CRUD Operations (Create, Read, Update, Delete)
+- ✅ User Management
+- ✅ Secure Password Hashing
+- ✅ Entity Framework Core Integration
+- ✅ Exception Handling & Validation
 
 ## 🏗️ Object-Oriented Programming (OOP) Concepts Used
 
