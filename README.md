@@ -70,7 +70,7 @@ Employee_Management_System_API/
 1️⃣ **Clone the Repository:**
 
 ```sh
-git [clone https://github.com/YourUsername/Employee_Management_System_API.git](https://github.com/NKhairnar203/Employee_Management_System_WebAPI_Q3_Tech)
+git clone https://github.com/YourUsername/Employee_Management_System_API.git
 cd Employee_Management_System_API
 ```
 
