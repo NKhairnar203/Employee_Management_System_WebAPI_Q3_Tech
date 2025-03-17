@@ -126,8 +126,7 @@ dotnet run
 
 | Method | Endpoint             | Description             |
 | ------ | -------------------- | ----------------------- |
-| POST   | `/api/auth/register` | Register a new HR vie   |
-|        |                      | admin                 |
+| POST   | `/api/auth/register` | Register a new HR throgh admin  |
 | POST   | `/api/auth/login`    | Login and get JWT token |
 
 ### 🔹 Employees
