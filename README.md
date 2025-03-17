@@ -93,6 +93,33 @@ dotnet ef database update
 dotnet run
 ```
 
+# Users Roles & Responsibilities
+
+## 🛠 Admin Role
+- The **Admin** is the **first-time user** who can log in with the following credentials:
+  - **Username:** `admin`
+  - **Password:** `Admin@123`
+  - **Role:** `Admin`
+- Admin has the ability to **add HR users** and pass their login details.
+
+---
+
+## 👥 HR Role & Responsibilities
+- HR users have access to **CRU Operations** (**Create, Read, Update**).
+- **❌ HR users cannot delete any records.**
+- HR users are assigned their roles by the **Admin**.
+
+---
+
+### 🔐 Login Instructions
+1. **Admin logs in** using the provided credentials.
+2. **Admin creates HR users** and provides them with login details.
+3. **HR users log in** and perform their allowed operations.
+
+---
+
+
+
 ## 🔑 API Endpoints
 
 ### 🔹 Authentication
